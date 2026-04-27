@@ -1,0 +1,9 @@
+{
+  "ingredientPattern": "X",
+  "ingredients": {
+    "X": { "type": "item", "code": "game:armor-head-antique-blackguard-pristine" }
+  },
+  "width": 1,
+  "height": 1,
+  "output": { "type": "item", "code": "game:clothes-head-dragoon-helm", "quantity": 1 }
+}

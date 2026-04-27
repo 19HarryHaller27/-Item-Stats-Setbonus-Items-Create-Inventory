@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "itemtraits",
+  "name": "Item Traits",
+  "authors": ["adams"],
+  "description": "Dragoon item set traits: wearable buffs, set bonus flight in survival, and character panel status. Includes blackguard sword tune-up for attack and sulfur recipe slot.",
+  "version": "0.1.0",
+  "dependencies": {
+    "game": "1.22.0"
+  }
+}

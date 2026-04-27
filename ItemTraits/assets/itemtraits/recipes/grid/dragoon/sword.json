@@ -1,0 +1,13 @@
+{
+  "ingredientPattern": "TCP,S__",
+  "requiresTrait": "merciless",
+  "ingredients": {
+    "T": { "type": "item", "code": "game:bladehead-short-iron" },
+    "S": { "type": "item", "code": "game:stick" },
+    "C": { "type": "item", "code": "game:charcoal" },
+    "P": { "type": "item", "code": "game:powder-sulfur" }
+  },
+  "width": 3,
+  "height": 2,
+  "output": { "type": "item", "code": "game:blade-blackguard-dragoon", "quantity": 1, "recipeAttributes": { "applyquenchablebuffs": true } }
+}

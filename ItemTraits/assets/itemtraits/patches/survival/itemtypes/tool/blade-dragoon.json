@@ -1,0 +1,83 @@
+[
+  {
+    "op": "add",
+    "file": "game:itemtypes/tool/blade.json",
+    "path": "/variantgroups/1/states/-",
+    "value": "dragoon"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/tool/blade.json",
+    "path": "/allowedVariants/-",
+    "value": "blade-blackguard-dragoon"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/tool/blade.json",
+    "path": "/skipVariants/-",
+    "value": "blade-falx-dragoon"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/tool/blade.json",
+    "path": "/skipVariants/-",
+    "value": "blade-longsword-dragoon"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/tool/blade.json",
+    "path": "/skipVariants/-",
+    "value": "blade-forlorn-dragoon"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/tool/blade.json",
+    "path": "/skipVariants/-",
+    "value": "blade-scrap-dragoon"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/tool/blade.json",
+    "path": "/skipVariants/-",
+    "value": "blade-gladius-dragoon"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/tool/blade.json",
+    "path": "/skipVariants/-",
+    "value": "blade-arming-dragoon"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/tool/blade.json",
+    "path": "/skipVariants/-",
+    "value": "blade-claymore-dragoon"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/tool/blade.json",
+    "path": "/skipVariants/-",
+    "value": "blade-sabre-dragoon"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/tool/blade.json",
+    "path": "/texturesByType/blade-blackguard-dragoon",
+    "value": {
+      "metal": { "base": "game:item/tool/sword-blackguard" },
+      "handle": { "base": "game:item/tool/sword-blackguard" }
+    }
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/tool/blade.json",
+    "path": "/attackpowerbytype/blade-blackguard-dragoon",
+    "value": 9
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/tool/blade.json",
+    "path": "/durabilitybytype/blade-blackguard-dragoon",
+    "value": 1100
+  }
+]

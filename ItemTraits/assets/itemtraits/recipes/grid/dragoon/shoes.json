@@ -1,0 +1,9 @@
+{
+  "ingredientPattern": "X",
+  "ingredients": {
+    "X": { "type": "item", "code": "game:clothes-foot-blackguard-shoes" }
+  },
+  "width": 1,
+  "height": 1,
+  "output": { "type": "item", "code": "game:clothes-foot-dragoon-shoes", "quantity": 1 }
+}

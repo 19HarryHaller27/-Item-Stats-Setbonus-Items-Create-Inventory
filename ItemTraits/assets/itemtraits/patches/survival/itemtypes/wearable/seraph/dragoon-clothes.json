@@ -1,0 +1,108 @@
+[
+  {
+    "op": "add",
+    "file": "game:itemtypes/wearable/seraph/foot.json",
+    "path": "/variantgroups/1/states/-",
+    "value": "dragoon-shoes"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/wearable/seraph/foot.json",
+    "path": "/shapeByType/clothes-foot-dragoon-shoes",
+    "value": { "base": "entity/humanoid/seraph/clothing/foot/blackguard-shoes" }
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/wearable/seraph/foot.json",
+    "path": "/shapeByType/*-dragoon-shoes",
+    "value": { "base": "entity/humanoid/seraph/clothing/foot/blackguard-shoes" }
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/wearable/seraph/waist.json",
+    "path": "/variantgroups/1/states/-",
+    "value": "dragoon-belt"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/wearable/seraph/waist.json",
+    "path": "/shapeByType",
+    "value": {}
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/wearable/seraph/waist.json",
+    "path": "/shapeByType/*-dragoon-belt",
+    "value": { "base": "entity/humanoid/seraph/clothing/waist/blackguard-belt" }
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/wearable/seraph/waist.json",
+    "path": "/shapeByType/clothes-waist-dragoon-belt",
+    "value": { "base": "entity/humanoid/seraph/clothing/waist/blackguard-belt" }
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/wearable/seraph/upperbody.json",
+    "path": "/variantgroups/1/states/-",
+    "value": "dragoon-shirt"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/wearable/seraph/upperbody.json",
+    "path": "/shapeByType/clothes-upperbody-dragoon-shirt",
+    "value": { "base": "entity/humanoid/seraph/clothing/upperbody/longsleeve" }
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/wearable/seraph/upperbody.json",
+    "path": "/shapeByType/*-dragoon-shirt",
+    "value": { "base": "entity/humanoid/seraph/clothing/upperbody/longsleeve" }
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/wearable/seraph/upperbody.json",
+    "path": "/texturesByType/clothes-upperbody-dragoon-shirt",
+    "value": {
+      "seraph": { "base": "block/transparent" },
+      "shirt": { "base": "entity/humanoid/seraphclothes/upperbody/blackguard-shirt" },
+      "uover": { "base": "entity/humanoid/seraphclothes/upperbody/blackguard-shirt" }
+    }
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/wearable/seraph/upperbody.json",
+    "path": "/texturesByType/*-dragoon-shirt",
+    "value": {
+      "seraph": { "base": "block/transparent" },
+      "shirt": { "base": "entity/humanoid/seraphclothes/upperbody/blackguard-shirt" },
+      "uover": { "base": "entity/humanoid/seraphclothes/upperbody/blackguard-shirt" }
+    }
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/wearable/seraph/head.json",
+    "path": "/variantgroups/1/states/-",
+    "value": "dragoon-helm"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/wearable/seraph/head.json",
+    "path": "/shapeByType/clothes-head-dragoon-helm",
+    "value": { "base": "entity/humanoid/seraph/armor/antique/blackguard-pristine/head" }
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/wearable/seraph/head.json",
+    "path": "/shapeByType/*-dragoon-helm",
+    "value": { "base": "entity/humanoid/seraph/armor/antique/blackguard-pristine/head" }
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/wearable/seraph/head.json",
+    "path": "/texturesByType/clothes-head-dragoon-helm",
+    "value": {
+      "seraph": { "base": "block/transparent" }
+    }
+  }
+]

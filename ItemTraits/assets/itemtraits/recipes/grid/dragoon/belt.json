@@ -1,0 +1,9 @@
+{
+  "ingredientPattern": "X",
+  "ingredients": {
+    "X": { "type": "item", "code": "game:clothes-waist-blackguard-belt" }
+  },
+  "width": 1,
+  "height": 1,
+  "output": { "type": "item", "code": "game:clothes-waist-dragoon-belt", "quantity": 1 }
+}

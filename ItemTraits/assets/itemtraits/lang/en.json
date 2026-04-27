@@ -1,0 +1,38 @@
+{
+  "gui-title": "Dragoon set status",
+  "gui-no-player": "No local player available.",
+  "gui-line-shoes": "Dragoon shoes (+100% move/sprint): {0}",
+  "gui-line-belt": "Dragoon belt (+3 inventory slots): {0}",
+  "gui-line-helm": "Dragoon helm (+25% health regeneration): {0}",
+  "gui-line-shirt": "Dragoon shirt (+4 max HP): {0}",
+  "gui-line-flight": "Set bonus (all 4 active): survival flight: {0}",
+  "gui-line-beltinv": "Dragoon Belt inventory (3 slots) appears here while belt is worn.",
+  "gui-summary": "Any missing or zero-durability piece (belt excluded from durability check) disables its bonus and breaks set flight.",
+  "status-active": "ACTIVE",
+  "status-inactive": "inactive",
+
+  "item-clothes-foot-dragoon-shoes": "Dragoon shoes",
+  "game:item-clothes-foot-dragoon-shoes": "Dragoon shoes",
+  "itemdesc-clothes-foot-dragoon-shoes": "<font color=\"#99c9f9\"><i>Dragoon set piece. While worn and with durability above 0%, grants +100% walk and sprint speed.</i></font><br>",
+  "game:itemdesc-clothes-foot-dragoon-shoes": "<font color=\"#99c9f9\"><i>Dragoon set piece. While worn and with durability above 0%, grants +100% walk and sprint speed.</i></font><br>",
+
+  "item-clothes-waist-dragoon-belt": "Dragoon belt",
+  "game:item-clothes-waist-dragoon-belt": "Dragoon belt",
+  "itemdesc-clothes-waist-dragoon-belt": "<font color=\"#99c9f9\"><i>Dragoon set piece. While worn, grants access to a dedicated 3-slot Dragoon Belt inventory. Belt cannot be unequipped while those slots contain items.</i></font><br>",
+  "game:itemdesc-clothes-waist-dragoon-belt": "<font color=\"#99c9f9\"><i>Dragoon set piece. While worn, grants access to a dedicated 3-slot Dragoon Belt inventory. Belt cannot be unequipped while those slots contain items.</i></font><br>",
+
+  "item-clothes-head-dragoon-helm": "Dragoon helm",
+  "game:item-clothes-head-dragoon-helm": "Dragoon helm",
+  "itemdesc-clothes-head-dragoon-helm": "<font color=\"#99c9f9\"><i>Dragoon set piece. While worn and with durability above 0%, grants +25% health regeneration.</i></font><br>",
+  "game:itemdesc-clothes-head-dragoon-helm": "<font color=\"#99c9f9\"><i>Dragoon set piece. While worn and with durability above 0%, grants +25% health regeneration.</i></font><br>",
+
+  "item-clothes-upperbody-dragoon-shirt": "Dragoon shirt",
+  "game:item-clothes-upperbody-dragoon-shirt": "Dragoon shirt",
+  "itemdesc-clothes-upperbody-dragoon-shirt": "<font color=\"#99c9f9\"><i>Dragoon set piece. While worn and with durability above 0%, grants +4 max HP.</i></font><br>",
+  "game:itemdesc-clothes-upperbody-dragoon-shirt": "<font color=\"#99c9f9\"><i>Dragoon set piece. While worn and with durability above 0%, grants +4 max HP.</i></font><br>",
+
+  "item-blade-blackguard-dragoon": "Dragoon Sword",
+  "game:item-blade-blackguard-dragoon": "Dragoon Sword",
+  "itemdesc-blade-blackguard-dragoon": "<font color=\"#99c9f9\"><i>Dragoon-forged short blade. Attack Power: 9. Crafted with added powdered sulfur. While held, this sword causes continuous self-bleeding until unequipped.</i></font><br>",
+  "game:itemdesc-blade-blackguard-dragoon": "<font color=\"#99c9f9\"><i>Dragoon-forged short blade. Attack Power: 9. Crafted with added powdered sulfur. While held, this sword causes continuous self-bleeding until unequipped.</i></font><br>"
+}
